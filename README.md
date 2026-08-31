@@ -46,3 +46,5 @@ Potion Shop is funded through the generous support of the Erlang Ecosystem Found
 Potion Shop is sponsored by [Paraxial.io](https://paraxial.io/), an application security platform for Elixir and Phoenix. 
 
 <!-- Security scan triggered at 2026-08-31 17:26:32 -->
+
+<!-- Security scan triggered at 2026-08-31 16:59:56 -->
